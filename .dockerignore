@@ -1,0 +1,12 @@
+data/
+mysql/
+db/
+
+.env
+__pycache__/
+*.pyc
+
+.git
+.gitignore
+.vscode/
+.idea/
